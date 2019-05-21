@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lokal-portal-challenge/static/css/main.61346fbc.chunk.css",
+    "main.js": "/lokal-portal-challenge/static/js/main.ed984075.chunk.js",
+    "main.js.map": "/lokal-portal-challenge/static/js/main.ed984075.chunk.js.map",
+    "runtime~main.js": "/lokal-portal-challenge/static/js/runtime~main.f2209f89.js",
+    "runtime~main.js.map": "/lokal-portal-challenge/static/js/runtime~main.f2209f89.js.map",
+    "static/js/2.d16ba94f.chunk.js": "/lokal-portal-challenge/static/js/2.d16ba94f.chunk.js",
+    "static/js/2.d16ba94f.chunk.js.map": "/lokal-portal-challenge/static/js/2.d16ba94f.chunk.js.map",
+    "index.html": "/lokal-portal-challenge/index.html",
+    "precache-manifest.b6b806cf1030bded23efbb9bc5e60f90.js": "/lokal-portal-challenge/precache-manifest.b6b806cf1030bded23efbb9bc5e60f90.js",
+    "service-worker.js": "/lokal-portal-challenge/service-worker.js",
+    "static/css/main.61346fbc.chunk.css.map": "/lokal-portal-challenge/static/css/main.61346fbc.chunk.css.map"
+  }
+}
