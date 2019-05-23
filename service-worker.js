@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/lokal-portal-challenge/precache-manifest.b6b806cf1030bded23efbb9bc5e60f90.js"
+  "/lokal-portal-challenge/precache-manifest.2c1c6abf6f1463c88e3bfb03a6d2e1aa.js"
 );
 
 self.addEventListener('message', (event) => {
