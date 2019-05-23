@@ -6,4 +6,4 @@
 
 #### Hover over a message for a little extra pizzaz, but be quick, these messages won't wait around forever.
 
-![Notefun GIF](https://github.com/nosidam48/lokal-portal-challenge/blob/master/public/React%20App.gif)
+![Notefun GIF](https://github.com/nosidam48/lokal-portal-challenge/blob/master/public/React%20App%20(1).gif)
