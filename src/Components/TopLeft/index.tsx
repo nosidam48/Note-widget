@@ -1,9 +1,8 @@
 import React from "react";
-import "./style.css";
 
 function TopLeft() {
     return(
-        <div id="topLeft"></div>
+        <div className="note" id="topLeft"></div>
     )
 }
 

@@ -1,5 +1,4 @@
 import React from "react";
-import "./style.css";
 
 class Message extends React.Component {
     
@@ -24,7 +23,7 @@ class Message extends React.Component {
         let type: string = this.state.type;
 
         if (!message) {
-            alert("Please enter a message!");
+            alert("You got nothing to say?!");
             return
         }
         let target = document.getElementById(position)
@@ -60,7 +59,7 @@ class Message extends React.Component {
             <input type="text" value={this.state.message} onChange={this.handleChange} id="message" name="message"></input>
             </label>
             <br></br>
-            <label htmlFor="position">Position: 
+            <label htmlFor="position">Location: 
             <select value={this.state.position} onChange={this.handleChange} id="position" name="position">
             <option value="topLeft">Top-left</option>
             <option value="topRight">Top-right</option>
@@ -71,13 +70,13 @@ class Message extends React.Component {
             <br></br>
             <label htmlFor="type">Type: 
             <select value={this.state.type} onChange={this.handleChange} id="type" name="type">
-            <option value="alert">Alert</option>
             <option value="info">Info</option>
+            <option value="alert">Alert</option>
             <option value="warning">Warning</option>
             </select>
             </label>
             <br></br>
-            <button type="submit" id="submit" onClick={this.handleSubmit}>Send Message</button>
+            <button type="submit" id="submit" onClick={this.handleSubmit}>Transmit</button>
             </form>
             </div>
         )

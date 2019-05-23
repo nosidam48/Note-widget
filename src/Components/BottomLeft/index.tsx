@@ -1,9 +1,8 @@
 import React from "react";
-import "./style.css";
 
 function BottomLeft() {
     return(
-        <div id="bottomLeft"></div>
+        <div className="note" id="bottomLeft"></div>
     )
 }
 

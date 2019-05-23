@@ -9,6 +9,7 @@ import TopRight from "./Components/TopRight/index";
 const App: React.FC = () => {
   return (
     <div className="App">
+      <h1>Notefun</h1>
       <TopLeft></TopLeft>
       <TopRight></TopRight>
       <BottomLeft></BottomLeft>
