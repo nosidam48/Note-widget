@@ -6,4 +6,4 @@
 
 #### Hover over a message for a little extra pizzaz, but be quick, these messages won't wait around forever.
 
-![Notefun GIF](https://drive.google.com/file/d/1jRgk2p_3f4KFT2_kj3zWYE_soBrXoQhh/view?usp=sharing)
+![Notefun GIF](https://drive.google.com/open?id=1jRgk2p_3f4KFT2_kj3zWYE_soBrXoQhh)
